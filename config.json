@@ -1,0 +1,14 @@
+{
+  "key_salt": "",
+  "accounts": [],
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8080
+  },
+  "data_dir": "",
+  "debug": {
+    "verbose": false,
+    "log_level": "info",
+    "log_dir": ""
+  }
+}
